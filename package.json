@@ -1,0 +1,20 @@
+{
+  "name": "parsersql",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-requirejs": "^0.2.6",
+    "requirejs": "^2.2.0",
+    "requirejs-plugins": "^1.0.2"
+  },
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "license": "MIT"
+}
